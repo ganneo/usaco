@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(/usr/local/include)
 
 add_executable(cowcollege src/cowcollege.cpp)
+add_executable(hungrycow src/hungrycow.cpp)
